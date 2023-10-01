@@ -43,7 +43,7 @@ I have chosen to duplicate the following layout from the **Duolingo** app:
 
 Here's a video / GIF that demos all of the app's implemented features:
 
-<img src='[img]https://i.imgur.com/pTsHuZp.gif[/img]' title='Video Demo' width='' alt='Video Demo' />
+<img src='https://i.imgur.com/pTsHuZp.gif' title='Video Demo' width='' alt='Video Demo' />
 
 GIF created with **ScreenToGif**
 
