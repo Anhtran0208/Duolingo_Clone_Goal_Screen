@@ -1,37 +1,10 @@
 
-# AND101 Project 3 - AnimalApps
+# AND101 Project Duolingo Clone Goal Screen
 
-Submitted by: **Anh Tran**
-
-Time spent: **4** hours spent in total
 
 ## Summary
 
-**Duolingo Goal Screen** is an android app that clones the goal screen of Duolingo App. It has the message when users complete the daily goal and continue button
-
-
-## Application Features
-
-
-The following REQUIRED features are completed:
-
-- [x ] Pick an app screenshot to duplicate
-  - Be sure to add the screenshot to "Chosen Screenshot" below.
-- [ x] Create a runnable app that displays an Animal Version of your chosen screenshot
-- [ x] Layout uses one (1) or more ConstraintLayout
-- [ x] Layout uses one (1) or more ImageView
-- [x ] Layout uses three (3) or more TextViews
-
-The following STRETCH features are implemented:
-
-- [ ] Create a custom-shape Button using Shape Drawables
-- [ ] Customize the text fonts by creating new Font Resources
-- [ ] Add Tooltips to your Views to help users understand how to navigate the UI
-- [ ] Create a second layout, this time for an original, personal app idea
-
-The following EXTRA features are implemented:
-
-- [ ] List anything else that you added to improve the app!
+**Duolingo Goal Screen** is an Android app that clones the goal screen of Duolingo App. It has the message when users complete the daily goal and continue button
 
 ## Chosen Screenshot
 
